@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Reverse Engineer",
+  "description": "Upload or paste an image to generate an AI prompt describing it, with adjustable detail levels.",
+  "requestFramePermissions": []
+}
